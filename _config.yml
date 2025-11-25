@@ -1,23 +1,59 @@
----
 permalink: /
-title: "About Me"
+title: "Xiaoyu Yao - Academic Portfolio"
+author: Xiaoyu Yao
+email: jushenyxy@mail.ustc.edu.cn
+description: >
+  MSc. Candidate in Management Science and Engineering at University of Science and Technology of China.
+  Research interests include Information Systems, Design Science, Empirical Research, and Platform Economics.
+baseurl: "" # 若网站部署在子路径需修改，默认留空
+url: "https://YaoXiao-yu.github.io" # 替换为你的GitHub Pages链接
+github_username: YaoXiao-yu # 替换为你的GitHub用户名
+
 author_profile: true
----
+avatar: # 可选：添加个人头像，放在images/目录下，填写文件名如"avatar.jpg"
+bio: >
+  MSc. Candidate<br>
+  Department of Management Science and Engineering<br>
+  School of Management<br>
+  University of Science and Technology of China<br>
+  Anticipated Graduation: March 2029<br>
+  Tel: 15155184861
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:jushenyxy@mail.ustc.edu.cn'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/YaoXiao-yu' # 替换为你的GitHub链接
 
-## 个人简介
-I am a Ph.D Candidate in **Management Science and Engineering** at the School of Management, University of Science and Technology of China (USTC), supervised by Prof. Hefu Liu. My research interests focus on **Information Systems, Design Science, Empirical Research, and Platform Economics**.
+redirect_from:
+  - /about/
+  - /about.html
 
-Prior to joining USTC, I obtained my B.Eng. degree in Information Management and Information Systems from Hefei University of Technology (2019-2023), under the supervision of Prof. Gang Wang and Prof. Zhao Wang.
+# 导航菜单配置（删除无需模块）
+nav:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Research
+    url: /research/
+  - title: Teaching
+    url: /teaching/
+  - title: Projects
+    url: /projects/
+  - title: Awards
+    url: /awards/
+  - title: CV
+    url: /cv/
 
-### 核心成果
-- Published 5 peer-reviewed papers in JCR Q1 journals (e.g., *European Journal of Operational Research*, *Expert Systems with Applications*).
-- Applied for 2 Chinese patents (substantive examination stage) and obtained 1 software copyright.
-- Participated in 3 National Natural Science Foundation of China (NSFC) projects.
-- Recipient of the National Scholarship for Postgraduate Students (2024).
-- Best Paper Award at ICSF 2024.
+# 其他默认配置保留（MathJax、Mermaid等）
+markdown: kramdown
+remote_theme: academicpages/academicpages.github.io
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
-## 研究兴趣
-- Information Systems
-- Design Science
-- Empirical Research
-- Platform Economics
+mathjax:
+  source: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
