@@ -33,7 +33,9 @@ redirect_from:
 # 导航菜单配置（删除无需模块）
 nav:
   - title: Home
-    url: /
+    url: /portfolio/
+  - title: Portfolio
+    url: /publications/
   - title: Publications
     url: /publications/
   - title: Research
