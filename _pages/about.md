@@ -1,11 +1,44 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Academic Background & Program Admission
+======
+Enrolled in the University of Science and Technology of China (USTC) Doctoral Training Program for Urgently Needed and Shortage Fields (Artificial Intelligence Field).Pursuing advanced academic research with a focus on integrating design science and machine learning in the management domain. For more details, please refer to the ORCID profile: https://orcid.org/0009-0008-5283-8688.
+
+Research Outputs
+======
+1. Journal Publications
+Published research works in internationally renowned journals, with detailed classifications as follows:
+Papers in journals including European Journal of Operational Research (ABS 4, FMS A), Expert Systems with Applications (CAS Tier 1 (Top), JCR Q1, USTC B2), and Measurement (JCR Q1, T1 in Instrumentation Field of China Association for Science and Technology (CAST)).
+2. Intellectual Property
+Granted Patent: 1 item
+Patents Under Substantive Examination: 2 items
+Granted Software Copyright: 1 item
+
+Conference Engagement & Awards
+======
+Presented academic papers or delivered reports at both domestic and international conferences, including:
+International Conference on Information Systems (ICIS) (top conference in Information Systems),
+Production and Operations Management Society (POMS) Conference,
+Wuhan International Conference of E-Business (WHICEB),
+China Summer Workshop on Information Management (CSWIM),
+China Association for Information Systems (CNAIS) Conference,
+International Conference on Service Science and Financial Engineering (ICSF).
+Received the “Best Paper in Track” Award at ICSF 2024.
+
+Academic Service
+======
+Invited to serve as an anonymous reviewer for:
+International Journals: Technological Forecasting and Social Change (TF&SC), Industrial Management & Data Systems (IMDS), Knowledge-Based Systems (KBS), Engineering Applications of Artificial Intelligence (EAAI), Neurocomputing;
+International Conferences: International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS).
+Honors & Scholarships
+Awarded the National Scholarship for Postgraduate Students (1 time), a prestigious academic honor in China recognizing outstanding postgraduate achievements.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
